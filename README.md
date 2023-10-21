@@ -1,13 +1,13 @@
-Innov8ion-Odyssey Voting App
+###Innov8ion-Odyssey Voting App
 Welcome to the Innov8ion-Odyssey Voting App project! This project focuses on creating a decentralized voting application that addresses various challenges in the field. We are committed to ensuring a secure, transparent, and inclusive voting process. Let's introduce our team and the project's key aspects:
 
-Team Members
+##Team Members
 @pranav-1100: Frontend Developer
 @Sam-wiz: Smart Contract Developer
 @naitikj9: Backend Developer
 @Suhassk205: Backend Developer
 Project Overview
-Main Challenges
+##Main Challenges
 We understand that building a decentralized voting app comes with numerous challenges. Our project addresses the following key issues:
 
 Security: Ensuring the highest level of security to protect the integrity of the voting process.
